@@ -1,9 +1,9 @@
 # Password used to access the website's admin panel
-ADMIN_PASSWORD = "admin_password"
+ADMIN_PASSWORD = "sandeep0011"
 
 # Telegram API_ID and API_HASH obtained from https://my.telegram.org/auth
-API_ID = 12345678  # Your Telegram API ID
-API_HASH = "api_hash"  # Your Telegram API Hash
+API_ID = 14419042  # Your Telegram API ID
+API_HASH = "1892976df5e8ff95852bacafa8910acd"  # Your Telegram API Hash
 
 # Time delay in seconds before retrying after a Telegram API floodwait error
 SLEEP_THRESHOLD = 60  # 1 minute
@@ -12,14 +12,14 @@ SLEEP_THRESHOLD = 60  # 1 minute
 USE_SESSION_FILE = True  # Set to False to use in-memory sessions
 
 # List of Telegram bot tokens used for file upload/download operations
-BOT_TOKENS = ["bot_token"]
+BOT_TOKENS = ["7407479716:AAGRw36g5p5ceJe4iw7DvIC4PVkbVlvqWok"]
 # You can add multiple bot tokens like this: BOT_TOKENS = ["bot_token1", "bot_token2", ...]
 
 # Maximum file size (in bytes) allowed for uploading to Telegram (2GB)
 MAX_FILE_SIZE = 1.98 * 1024 * 1024 * 1024  # 2GB
 
 # Chat ID of the Telegram storage channel where files will be stored
-STORAGE_CHANNEL = -1001234567890  # Your storage channel's chat ID
+STORAGE_CHANNEL = -1002189208719  # Your storage channel's chat ID
 
 # Message ID of a file in the storage channel used for storing database backups
 DATABASE_BACKUP_MSG_ID = 123  # Your database backup message ID
