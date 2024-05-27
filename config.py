@@ -12,7 +12,7 @@ SLEEP_THRESHOLD = 60  # 1 minute
 USE_SESSION_FILE = True  # Set to False to use in-memory sessions
 
 # List of Telegram bot tokens used for file upload/download operations
-BOT_TOKENS = ["7407479716:AAGRw36g5p5ceJe4iw7DvIC4PVkbVlvqWok"]
+BOT_TOKENS = ["bot_token"]
 # You can add multiple bot tokens like this: BOT_TOKENS = ["bot_token1", "bot_token2", ...]
 
 # Maximum file size (in bytes) allowed for uploading to Telegram (2GB)
